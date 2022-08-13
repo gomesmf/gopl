@@ -1,6 +1,0 @@
-mode: set
-github.com/gomesmf/gopl/ch11-tests/echo/echo.go:19.13,21.51 2 0
-github.com/gomesmf/gopl/ch11-tests/echo/echo.go:21.51,24.3 2 0
-github.com/gomesmf/gopl/ch11-tests/echo/echo.go:27.58,29.13 2 1
-github.com/gomesmf/gopl/ch11-tests/echo/echo.go:32.2,32.12 1 1
-github.com/gomesmf/gopl/ch11-tests/echo/echo.go:29.13,31.3 1 1
