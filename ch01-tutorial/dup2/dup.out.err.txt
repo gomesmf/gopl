@@ -1,0 +1,4 @@
+dup2: open example2.txt: no such file or directory
+2	my friend
+2	Matheus
+2	hello
