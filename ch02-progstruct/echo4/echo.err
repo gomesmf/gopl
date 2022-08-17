@@ -1,0 +1,5 @@
+flag provided but not defined: -fd
+Usage of ./echo:
+  -n	omit trailing newline
+  -s string
+    	separator (default " ")
