@@ -1,4 +1,4 @@
-// Cf converts its numeric argument to Celsius and Fahrenheit;
+// Cflocal converts its numeric argument to Celsius and Fahrenheit;
 package main
 
 import (
@@ -6,7 +6,7 @@ import (
 	"os"
 	"strconv"
 
-	"example.com/tempconv"
+	"github.com/gomesmf/gopl/ch02-progstruct/tempconv"
 )
 
 func main() {
