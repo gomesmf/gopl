@@ -7,4 +7,8 @@ use (
 	./ch05-functions/links
 	./ch05-functions/outline
 	./ch05-functions/outline2
+	./ch08-goroutines-channels/crawl1
+	./ch08-goroutines-channels/crawl2
+	./ch08-goroutines-channels/crawl3
+	./ch08-goroutines-channels/thumbnail
 )

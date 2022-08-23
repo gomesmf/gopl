@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"gopl.io/ch5/links"
+	"github.com/gomesmf/gopl/ch05-functions/links"
 )
 
 func crawl(url string) []string {
