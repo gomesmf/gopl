@@ -1,0 +1,10 @@
+go 1.19
+
+use (
+	./ch05-functions/findlinks1
+	./ch05-functions/findlinks2
+	./ch05-functions/findlinks3
+	./ch05-functions/links
+	./ch05-functions/outline
+	./ch05-functions/outline2
+)
