@@ -1,6 +1,7 @@
 go 1.19
 
 use (
+	./ch03-basic-data-types/surf
 	./ch05-functions/findlinks1
 	./ch05-functions/findlinks2
 	./ch05-functions/findlinks3
@@ -9,6 +10,8 @@ use (
 	./ch05-functions/outline2
 	./ch06-methods/geometry
 	./ch06-methods/geometry/cmd
+	./ch07-interfaces/eval
+	./ch07-interfaces/surface
 	./ch07-interfaces/tempconv
 	./ch08-goroutines-channels/crawl1
 	./ch08-goroutines-channels/crawl2
