@@ -16,5 +16,4 @@ use (
 	./ch08-goroutines-channels/crawl1
 	./ch08-goroutines-channels/crawl2
 	./ch08-goroutines-channels/crawl3
-	./ch08-goroutines-channels/thumbnail
 )
