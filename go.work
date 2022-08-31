@@ -16,4 +16,7 @@ use (
 	./ch08-goroutines-channels/crawl1
 	./ch08-goroutines-channels/crawl2
 	./ch08-goroutines-channels/crawl3
+	./ch09-concurrency-shared-variables/bank
+	./ch09-concurrency-shared-variables/bank/race
+	./ch09-concurrency-shared-variables/bank1
 )
