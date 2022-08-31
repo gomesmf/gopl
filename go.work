@@ -19,4 +19,8 @@ use (
 	./ch09-concurrency-shared-variables/bank
 	./ch09-concurrency-shared-variables/bank/race
 	./ch09-concurrency-shared-variables/bank1
+	./ch09-concurrency-shared-variables/memo1
+	./ch09-concurrency-shared-variables/memo2
+	./ch09-concurrency-shared-variables/memo3
+	./ch09-concurrency-shared-variables/memo4
 )
